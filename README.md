@@ -1,2 +1,2 @@
 # CakeStore
-Online cake shop
+Online cake shop with front end and backend
